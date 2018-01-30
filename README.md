@@ -24,3 +24,8 @@ Udacity Full Stack Web Developer program.
 ## Technologies Utilized
 
 This project is built with Python 2.7.14, HTML, CSS, and jQuery. 
+
+## Credits
+
+The ```fresh_tomatoes.py``` file was supplied by Udacity as a required part of the project. I edited the HTML 
+and CSS portions slightly to customize the look. The original file can be found [here on Github](https://github.com/udacity/ud036_StarterCode/blob/master/fresh_tomatoes.py).
