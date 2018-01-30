@@ -1,4 +1,4 @@
- # Movie Trailer Website
+# Movie Trailer Website
 
 This movie trailer website will populate my top six space-themed movies
 on a web page. Each movie's movie poster will be displayed along with the title. 
@@ -11,7 +11,8 @@ Udacity Full Stack Web Developer program.
 - Visit the repository's page [here](https://github.com/courtg47/movie-trailer-website).
 - Clone or download the repo.
 - If you do not have Python 2.7.14 installed, download [here](https://www.python.org/downloads/).
-- Once Python is installed, open the ```entertainment_center.py``` file.
+- Once Python is installed, open the IDLE (Python GUI).
+- Open the ```entertainment_center.py``` file from IDLE.
 - Run the application from this file.
 - Website should appear in your web browser.
 
