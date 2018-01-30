@@ -1,4 +1,4 @@
-# Movie Trailer Website
+ # Movie Trailer Website
 
 This movie trailer website will populate my top six space-themed movies
 on a web page. Each movie's movie poster will be displayed along with the title. 
@@ -17,8 +17,8 @@ Udacity Full Stack Web Developer program.
 
 ## Functionality
 
--View movie posters.
--Click on movie poster to see a pop up of the corresponding movie trailer.
+- View movie posters.
+- Click on movie poster to see a pop up of the corresponding movie trailer.
 
 ## Technologies Utilized
 
